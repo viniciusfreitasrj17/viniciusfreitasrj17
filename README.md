@@ -25,17 +25,17 @@
 ### Techs
 
 <div style="display: inline_block"></br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=typescript" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=javascript" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=node" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=nest" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" /></a>
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=python" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=django" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" /></a>
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=shell" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></a>
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=shell" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></a>
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=dockerfile" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></a>
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=cicd-github-actions" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" /></a>
+  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=nginx" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" /></a>
   <img align="right"  width="320" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 </div>
 
