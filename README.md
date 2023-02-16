@@ -50,5 +50,3 @@
   <a href="https://gitlab.com/viniciusfreitasrj17" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
   <a href="https://bitbucket.org/viniciusfreitasrj17home/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" /></a>
 </div>
-
-![Snake animation](https://github.com/viniciusfreitasrj17/viniciusfreitasrj17/blob/output/github-contribution-grid-snake.svg)
