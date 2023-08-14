@@ -2,24 +2,6 @@
 - 🔭 I’m currently working on Micro Services, DevOps, Nodejs and Django
 - 🌱 I’m currently learning Software Architecture, Ruby and Java
 
-<div>
-  <a href="https://github.com/viniciusfreitasrj17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfreitasrj17&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusfreitasrj17&layout=compact&langs_count=8&theme=radical&hide=php,hcl" />
-  </a>
-</div>
-
-##
-
-### Pinned
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusfreitasrj17&repo=arch-school&theme=radical)](https://github.com/viniciusfreitasrj17/arch-school)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusfreitasrj17&repo=design-patterns-typescript&theme=radical)](https://github.com/viniciusfreitasrj17/design-patterns-typescript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusfreitasrj17&repo=clean-architecture-send-mail&theme=radical)](https://github.com/viniciusfreitasrj17/clean-architecture-send-mail)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusfreitasrj17&repo=cluster-api&theme=radical)](https://github.com/viniciusfreitasrj17/cluster-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusfreitasrj17&repo=nginx&theme=radical)](https://github.com/viniciusfreitasrj17/nginx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusfreitasrj17&repo=cicd-github-actions&theme=radical)](https://github.com/viniciusfreitasrj17/cicd-github-actions)
-
 ##
 
 ### Techs
