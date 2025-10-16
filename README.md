@@ -18,8 +18,14 @@
   <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=dockerfile" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></a>
   <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=cicd-github-actions" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" /></a>
   <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=nginx" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17"><img align="right"  width="320" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></a>
 </div>
+
+##
+
+<div>
+  <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciusfreitasrj17&theme=radical"/>
+</div>
+ <img width="97%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusfreitasrj17&theme=radical"/>
 
 ##
 
