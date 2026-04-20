@@ -1,29 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Micro Services, DevOps, Nodejs and Django
-- 🌱 I’m currently learning Software Architecture, Ruby and Java
+- 🔭 I’m currently working on Micro Services, DevOps, Nodejs, Django and AI
+- 🌱 I’m currently learning Software Architecture and GO
 
 ##
 
-### Techs
-
-<div style="display: inline_block"></br>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=typescript" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=javascript" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=node" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=nest" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=python" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=django" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=shell" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=shell" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&language=dockerfile" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=cicd-github-actions" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" /></a>
-  <a href="https://github.com/viniciusfreitasrj17?tab=repositories&q=nginx" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" /></a>
-</div>
-
-##
-
-<div>
-  <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciusfreitasrj17&theme=radical"/>
 </div>
  <img width="97%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusfreitasrj17&theme=radical"/>
 
